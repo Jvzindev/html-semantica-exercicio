@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Container */
+.container {
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    background-color: #e1edf3;
+    padding: 10px;
+}
+.header h1 {
+    color: #3D3D3D;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+/* Informações */
+.more-info {
+    display: flex;
+    padding: 20px;
+}
+
+/* Correspondência e telefones */
+.phones-container {
+    margin-left: 20%;
+    padding-right: 10px;
+}
+.phones-container h3 {
+    color: #3D3D3D;
+    font-size: 24px;
+}
+.today {
+    position: relative;
+    bottom: 18px;
+    left: 180px;
+    font-size: 13px;
+    color: #3D3D3D;
+}
+.sedex-container {
+    padding-right: 10px;
+}
+.sedex-container h3 {
+    color: #3D3D3D;
+    font-size: 24px;
+}
+.today-2 {
+    position: relative;
+    bottom: 18px;
+    left: 105px;
+    font-size: 13px;
+    color: #3D3D3D;
+}
+.main-paragraphy {
+    color: #3D3D3D;
+    font-size: 18px;
+}
+
+/* Span preset */
+.italic {
+    font-style: italic;
+}
+.color-underline {
+    color: blue;
+    text-decoration: underline;
+}

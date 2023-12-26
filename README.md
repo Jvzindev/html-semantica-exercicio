@@ -11,3 +11,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
+
+<h2>Foto do Exercício</h2>
+<img src="changelle.png"/>
+
+<h2>Foto do Exercício Finalizado</h2>
+<img src="finish.png"/>
+
+###
